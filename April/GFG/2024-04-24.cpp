@@ -1,3 +1,6 @@
+// Problem link: https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1  (Paths to reach origin)
+
+
 #include <bits/stdc++.h>
 using namespace std;
 int mod = 1e9+7;
